@@ -1,0 +1,14 @@
+{
+  "cSpell.customDictionaries": {
+    "idiolect": {
+      "addWords": true,
+      "name": "idiolect",
+      "path": "${workspaceFolder}/.vscode/dictionary.txt",
+      "scope": "workspace"
+    }
+  },
+  "cSpell.dictionaries": [
+    "idiolect"
+  ],
+  "cSpell.language": "en-GB"
+}
