@@ -1,6 +1,6 @@
 {
   "name": "@davidsneighbour/idiolect",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "private": true,
   "description": "Reusable AI skills for capturing, checking, and applying a person's distinctive writing voice.",
   "type": "module",

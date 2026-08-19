@@ -5,12 +5,12 @@ authors:
     given-names: "Patrick"
     orcid: "https://orcid.org/0000-0001-6250-2135"
 title: "Idiolect"
-version: v0.1.0
-date-released: 2026-08-16
+version: v1.0.0
+date-released: 2026-08-19
 url: "https://github.com/davidsneighbour/idiolect"
 repository-code: "https://github.com/davidsneighbour/idiolect"
 license: "MIT"
-commit: 0000000000000000000000000000000000000000
+commit: 762422aa8ce89ae00f3b1c3e2d7a70c6477658a7
 keywords:
   - ai
   - writing
