@@ -1,5 +1,4 @@
-<!-- markdownlint-disable-next-line MD026 -->
-# Idiolect
+![Idiolect](.github/assets/images/skillwerk/idiolect.png)
 
 ## AI skills for a person's own writing voice
 
@@ -9,6 +8,7 @@ Idiolect is a collection of reusable AI skills for capturing, checking, and appl
 * [Install](#install)
 * [Update](#update)
 * [Skills](#skills)
+* [The cabinet of @davidsneighbour's skills](#the-cabinet-of-davidsneighbours-skills)
 
 ## Install
 
@@ -31,3 +31,11 @@ Use `--global` when the skills should be available outside the current project.
 ## Skills
 
 * `idiolect` builds a voice profile from writing samples, checks a draft against that profile, and rewrites drafts so they read in the author's own voice.
+
+## The cabinet of @davidsneighbour's skills
+
+| Exhibit | Skill |
+| :---: | :--- |
+| [![](.github/assets/images/skillwerk/clerkwork-thumb.png)](https://github.com/davidsneighbour/clerkwork) | **[Clerkwork](https://github.com/davidsneighbour/clerkwork):** It's an engineers world. Start your engines, maintain, contrive, and put in the works. |
+| [![](.github/assets/images/skillwerk/idiolect-thumb.png)](https://github.com/davidsneighbour/idiolect) | **[Idiolect](https://github.com/davidsneighbour/idiolect):** Finding your own language in skill outputs. |
+| [![](.github/assets/images/skillwerk/posthaste-thumb.png)](https://github.com/davidsneighbour/posthaste) | **[Posthaste](https://github.com/davidsneighbour/posthaste):** A collection of skills to post to social media of all kinds. |
