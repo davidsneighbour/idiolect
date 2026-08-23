@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.0.1](https://github.com/davidsneighbour/idiolect/compare/v1.0.0...v1.0.1) (2026-08-23)
+
+### Chore
+
+* cleanup and repo structure ([fd25cf7](https://github.com/davidsneighbour/idiolect/commit/fd25cf7993e9604afd56d49d5bfda509caaff193))
+
 ## 1.0.0 (2026-08-19)
 
 ### Feat
